@@ -1,2 +1,2 @@
 # kno-modx
-The simplest way to add passwordless authentication to your application
+The simplest way to add passwordless authentication to your modx application.
